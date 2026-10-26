@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="order">[&quot;com.brlf.tvlivelaunch&quot;,&quot;com.fongmi.android.tv&quot;,&quot;com.yunpan.appmanage&quot;,&quot;tv.fix.home&quot;,&quot;com.android.settings&quot;,&quot;action:shutdown&quot;]</string>
+    <string name="name:com.brlf.tvlivelaunch">河南IPTV</string>
+    <string name="name:com.fongmi.android.tv">OK影视</string>
+    <string name="name:com.yunpan.appmanage">应用管家</string>
+    <string name="name:tv.fix.home">桌面切换</string>
+    <string name="name:com.android.settings">系统设置</string>
+    <string name="name:action:shutdown">关机</string>
+</map>
